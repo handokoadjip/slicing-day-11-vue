@@ -1,4 +1,4 @@
-# day-1-vue
+# Tran Mau Tri Tam | Inspiration
 
 ## Project setup
 ```
