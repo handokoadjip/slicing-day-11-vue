@@ -1,6 +1,6 @@
 <template>
   <HeaderComponent />
-  <main>
+  <main class="my-5 py-5">
     <router-view />
   </main>
   <FooterComponent />
